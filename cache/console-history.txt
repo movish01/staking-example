@@ -1,0 +1,2 @@
+stakingContract.adq
+const stakingContract = await ethers.getContract("Staking")
